@@ -1,4 +1,4 @@
-# What-I-Learned-Today
+# 📋 What I Learned Today
 
 
 ## 🔥 [변수](https://github.com/iwalkbyfaith/What-I-Learned-Today/blob/master/%EB%B3%80%EC%88%98.md)
