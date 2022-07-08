@@ -19,3 +19,12 @@
   - 조건문 : if문, switch문
   - 반복문 : for문, while문, do-while문
     - 중첩 for문, break문, continue문
+    
+    
+<br>
+
+## 🔥 [참조타입](https://github.com/iwalkbyfaith/What-I-Learned-Today/blob/master/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EC%9E%90%EB%B0%94/%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85.md)
+  - 참조 타입과 참조 변수
+    - 기본타입과 참조타입, 메모리 사용 영역, == 연산, NullPointerException
+  - 배열
+    - 선언, 생성, 길이, 다차원 배열, 배열 복사
